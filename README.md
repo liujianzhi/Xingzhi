@@ -1,5 +1,13 @@
 # Xingzhi
-A pretrained  text-to-image generation model for Xingzhi competition.
+A pretrained chinese text-to-image generation model for Xingzhi competition.
+
+### model
+ ![model](/model.png)
+ -----------------------------
+ 
+ ![model1](/model1.png)
+ 
+ 
 ### Env
 |item|ver|
 |----|----|
@@ -25,4 +33,9 @@ bash scripts/predict.sh
 
 dataset: https://pan.baidu.com/s/1FaE8O25wq-1YWmVVHIPq8A passwd: zHvD
 
+### Result
+ ![result](/result.png)
+ ----------------------
+ 
+ ![result1](/result2.png)
 
