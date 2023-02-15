@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 accelerate launch --multi_gpu --mixed_precision=fp16 --num_processes=6 predict.py

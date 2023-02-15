@@ -1,0 +1,8 @@
+torch
+torchvision
+asyncio
+accelerate
+tqdm
+numpy
+pil
+pandas
