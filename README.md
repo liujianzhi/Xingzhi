@@ -34,6 +34,9 @@ bash scripts/predict.sh
 dataset: https://pan.baidu.com/s/1FaE8O25wq-1YWmVVHIPq8A passwd: zHvD
 
 ### Result
+
+FID:40.748
+
  ![result](/result.png)
  ----------------------
  
